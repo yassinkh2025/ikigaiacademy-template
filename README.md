@@ -9,7 +9,8 @@ Idéale pour présenter un centre éducatif, un projet de formation ou une acad�
 
 ## ✨ Aperçu
 
-🖼️ [Voir le site en ligne (Netlify)](https://tonlien.netlify.app)
+🖼️🟢 [Voir la démo en ligne](https://ikagai-academy.netlify.app/)
+
 
 📸 ![preview](https://github.com/yassinkh2025/ikigaiacademy-template/raw/main/public/ikigai-preview.png)
 
